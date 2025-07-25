@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [**infolelang-bri**](https://infolelang.bri.co.id)
 
-- 👨‍💻 All of my projects are available at [https://danuu.site](https://danuu.site)
+- 👨‍💻 All of my projects are available at [danuu.site](https://danuu.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
