@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsukakotori77" alt="itsukakotori77" /></a> </p>
 
-- 🔭 I’m currently working on **infolelang-bri**[https://infolelang.bri.co.id](https://infolelang.bri.co.id)
+- 🔭 I’m currently working on  [**infolelang-bri**](https://infolelang.bri.co.id)
 
 - 👨‍💻 All of my projects are available at [https://danuu.site](https://danuu.site)
 
