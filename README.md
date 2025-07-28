@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsukakotori77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsukakotori77/itsukakotori77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsukakotori77/itsukakotori77/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/itsukakotori77/itsukakotori77/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 [![](https://visitcount.itsvg.in/api?id=itsukakotori77&icon=0&color=0)](https://visitcount.itsvg.in)
 
